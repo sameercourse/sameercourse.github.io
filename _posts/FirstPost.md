@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: firstpost
 ---
 
 First Post from the online Github editor
